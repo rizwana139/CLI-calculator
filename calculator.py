@@ -17,8 +17,6 @@ def div(a,b):
     q=a/b
     r=a%b
     return q, r
-   # print("\nThe Quotient is : %s" %q)
-    #print("\nThe Remainder is : %s" %r)
 while(True):
     print("\n\nChoose the Operation you want to perform: ")
     print("\n\t1.ADDITION")
