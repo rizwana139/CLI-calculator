@@ -1,15 +1,16 @@
 # CLI-calculator
+
 A Simple command-line calculator built using Python.
 It supports Basic Arithmetic Operations such as Addition, Subtraction, Multiplication, and Division.
 
-#Tools Used
+**Tools Used**
  
- Python
+  •Python
  
- VS Code
+  •VS Code
  
- Terminal/Command Prompt
+  •Terminal/Command Prompt
 
- Author Name: Vempalli Rizwana 
+Author Name: Vempalli Rizwana 
  
 Email ID: rrizzu139@gmail.com
