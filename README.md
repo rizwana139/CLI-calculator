@@ -11,6 +11,16 @@ It supports Basic Arithmetic Operations such as Addition, Subtraction, Multiplic
  
   •Terminal/Command Prompt
 
+**Features**
+
+  ✓ User input handling
+
+  ✓ Error checking for non-numeric input
+
+  ✓ Division by zero handling 
+
+  ✓ Loop until user chooses to Exit
+
 **Author Name:** Vempalli Rizwana 
  
 **Email ID:** rrizzu139@gmail.com
