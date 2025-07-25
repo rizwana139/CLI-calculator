@@ -1,4 +1,4 @@
-# CLI-calculator
+# CLI-calculator ElevateLabs-Task 1
 
 A Simple command-line calculator built using Python.
 It supports Basic Arithmetic Operations such as Addition, Subtraction, Multiplication, and Division.
